@@ -20,7 +20,7 @@
 - [ ] Checking the supply and demand of the product.
 
 ### Requirements
-Before starting, you need to install: [Python3](https://www.python.org/downloads/), [Selenium](https://selenium-python.readthedocs.io/installation.html).<br />
+Before starting, you need to install: [Python3](https://www.python.org/downloads/), [Selenium](https://selenium-python.readthedocs.io/installation.html) and [Chrome Driver](https://chromedriver.chromium.org/downloads). <br />
 Furthermore, I recommend you a code editor. My suggestion: [Sublime](https://www.sublimetext.com/).
 
 ### Objectives
@@ -28,6 +28,7 @@ At the first moment, I noticed that the prices of many products in the steam com
 
 ### Author
 Made by me, Rafael Francisco Reus!
+<br />
 Any doubts? Contact me!
 <br />
 <br />
