@@ -24,3 +24,4 @@ Before starting, you need to install: [Python3](https://www.python.org/downloads
 Furthermore, I recommend you a code editor. My suggestion: [Sublime](https://www.sublimetext.com/).
 
 ### Objectives
+At the first moment, I noticed that the prices of many products in the steam community market have a pattern. I was first looking for items which had high liquidity, however most part of them did not have a margin bigger than 10% (which is not worth, because the fees are 15% if you do not know.). Then, I started looking for "forgotten products" or low liquidity items, and I found out: you can 
